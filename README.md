@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saucx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/admin-sauce) 
 
 ### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=tenserflow,aws,py,java,js,ts,pytorch,vscode,gitlab,gcp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,ts,js,html,css,mysql,php,bash,tensorflow,pytorch,aws&theme=dark)](https://skillicons.dev)
 ### 📊 GitHub Stats:
 ![Thomas Albert Iwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=admin-sauce&show_icons=true&theme=dark)
   
