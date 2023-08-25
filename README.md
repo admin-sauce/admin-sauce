@@ -1,5 +1,5 @@
 ### 💫 About Me:
-🔭 I’m currently working on TenserFlow<br>👀 I’m interested in getting into the Community <br>👯 I’m looking to collaborate on GitHub<br>🤝 I’m looking for help with Suggestions<br>🌱 I’m currently learning Machine Learning<br>📫 Reach me at haw1.sauc3@gmail.com
+🔭 I’m currently working on TenserFlow<br>👀 I’m interested in getting into the Community <br>👯 I’m looking to collaborate on GitHub<br>🤝 I’m looking for help with Suggestions<br>🌱 I’m currently learning Machine Learning<br>📫 Reach me at iwin.albert@outlook.com
 
 ### 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,mysql,bash,tensorflow,pytorch,aws&theme=dark)](https://skillicons.dev)
